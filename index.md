@@ -2,3 +2,5 @@
 ## This is my H2 header
 ### blahblah
 #### blahblahblah 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
